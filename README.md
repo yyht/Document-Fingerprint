@@ -1,17 +1,1 @@
-# Authorship
-For IS Contest
-
-Data Explanation:</br>   
-f means real words, g means virtual words</br>   
-bd--BigDataAbstract    mm--MiMeng   zjw--ZhangJiaWei (three WeChats)</br>   
-in "bigdata":</br>   
-0.txt ---- the original article of sequence 0 (50 altogether)</br>   
-0bdf.txt ---- the real-word article of sequence 0</br>   
-0bdg.txt ---- the virtual-word article of sequence 0</br>   
-punctuation.txt ---- stop words, used in cut.py</br>   
-
-Code Explanation:</br>   
-ldareal.py ---- lda for all xxxf.txt</br>   
-ldavir.py ---- lda for all xxxg.txt</br>   
-cut.py ---- cut the original txt into xxxf.txt and xxxg.txt</br>   
-hCluster.py ---- the library for cluster</br>   
+<div># Authorship</div><div>For IS Contest</div><div><br /></div><div>Data Explanation:</div><div>f means real words, g means virtual words</div><div>bd--BigDataAbstract &nbsp; &nbsp;mm--MiMeng &nbsp; zjw--ZhangJiaWei (three WeChats)</div><div>in "bigdata":&nbsp;</div><div>0.txt ---- the original article of sequence 0 (50 altogether)</div><div>0bdf.txt ---- the real-word article of sequence 0</div><div>0bdg.txt ---- the virtual-word article of sequence 0</div><div>punctuation.txt ---- stop words, used in cut.py</div><div><br /></div><div>Code Explanation:</div><div>ldareal.py ---- lda for all xxxf.txt</div><div>ldavir.py ---- lda for all xxxg.txt</div><div>cut.py ---- cut the original txt into xxxf.txt and xxxg.txt</div><div>hCluster.py ---- the library for cluster</div>

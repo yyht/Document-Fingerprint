@@ -1,0 +1,135 @@
+呜啦啦啦啦啦大家好呀，又到了本周的AI大事件时间了。过去的一周中AI圈都发生了什么？大佬们互撕了哪些问题？研究者们发布了哪些值得一读的论文？又有哪些开源的代码和数据库可以使用了？文摘菌带你盘点过去一周AI大事件！
+
+新闻
+
+TensorFlow 发布新版本1.5.0
+
+链接：
+https://github.com/tensorflow/tensorflow/releases/tag/v1.5.0-rc0?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+此版本包括Tensorflow的新执行模式的预览版本和Tensorflow Lite（用于移动和嵌入式设备）预览版本。
+
+Reddit调查：2017机器学习“各种最佳”
+
+链接：
+https://www.reddit.com/r/MachineLearning/comments/7nrzhn/d_results_from_best_of_machine_learning_2017/
+
+Redditors选出了最好的视频，最好的博客文章，最好的新工具，最好的论文，最好的其它。 想要追踪过去一年的重要发展，本文值得一读。
+
+文章 & 教程
+
+一个“贴纸”欺骗深度学习系统将无关图片识别为烤面包机
+
+链接：
+https://gizmodo.com/this-simple-sticker-can-trick-neural-networks-into-thin-1821735479?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+谷歌研究人员开发了一个“迷幻”贴纸，当放置在一个不相关的图像中时，会欺骗深度学习系统，将图像分类为烤面包机。原文戳这里：
+https://arxiv.org/abs/1712.09665
+
+
+GitHub30个最佳机器学习项目
+
+链接：
+https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7
+MEDIUM.MYBRIDGE.CO – Share
+
+这篇文章比较了8,800个开源机器学习项目，并考虑了受欢迎程度，参与度和新近度，选出了前30名。 它们在Github上平均得到3558个星星。
+
+麻省理工6.S094：自动驾驶深度学习（课程）
+
+链接：
+https://selfdrivingcars.mit.edu/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+通过搭建无人驾驶车的应用任务介绍深度学习。2018年课程于本周开始，视频将在网站上发布。
+
+戳这里看大数据文摘字幕组译制的课程视频（2017年版）
+
+人工智能用于药物开发——已被过度炒作
+
+链接：
+https://medium.com/the-ai-lab/artificial-intelligence-in-drug-discovery-is-overhyped-examples-from-astrazeneca-harvard-315d69a7f863?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+人工智能在药物研发方面的投资正在飙升，但它们是否合理？ 这篇文章认为，研究人员倾向于高估他们的成就，特别是在制药领域。
+
+
+深度神经网络的物理对抗实例
+
+链接：
+http://bair.berkeley.edu/blog/2017/12/30/yolo-attack/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+这篇文章介绍了用最先进的算法来生成数字对抗的实例，并讨论了用一种新的算法来生成在不同的环境条件下物理对抗的例子。
+
+代码，项目和数据
+
+DeepMind控制套件和控制包代码
+
+链接：
+https://github.com/deepmind/dm_control?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+发布在这篇论文中https://arxiv.org/abs/1801.00690，DeepMind Control Suite是一套持续的控制任务，具有标准化的结构和可解释的奖励，旨在作为强化学习代理的性能基准。
+
+Facebook AI Research自动语音识别工具包
+
+链接：
+https://github.com/facebookresearch/wav2letter?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+wav2letter是来自Facebook AI Research的一个简单高效的端到端自动语音识别（ASR）系统。
+
+戳这里看大数据文摘相关报道
+
+一个针对迷宫/网格世界的可定制gym环境
+
+链接：
+https://github.com/zuoxingdong/gym-maze?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+这个库包含一个可定制的gym环境，适用于各种迷宫或网格世界。 迷宫或网格世界环境在强化学习社区中经常被使用。
+
+
+自动化的错误分类
+
+链接：
+http://bugtriage.mybluemix.net/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+一种新颖的使用基于注意力的深度双向递归神经网络的错误报告呈现算法。
+
+论文
+
+[1712.09665]对抗补丁
+
+链接：
+https://arxiv.org/abs/1712.09665?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+一种在现实世界中创建通用、强大、有针对性的对抗图像补丁的方法。这些补丁是通用的——因为它们可以用来攻击任何场景，也是强大的——因为它们可以完成各种各样的变形，而且是有针对性的——因为它们可以让分类器输出任何目标类。 这些对抗补丁可以打印、添加到任何场景、拍照，并呈现给图像分类器。
+
+[1801.00631]深度学习：批判性评论
+
+链接：
+https://arxiv.org/abs/1801.00631
+
+深度学习这个领域由Hinton于2012年发表ImageNet深度网络模型的论文（现在已然是经典之作）重新点燃。 这个领域在接下来的五年中发现了什么？ 在语音识别，图像识别，游戏玩法等方面取得长足进步的背景下，作者在深度学习中提出了十点关注，并提出要实现通用人工智能，深度学习必须辅以的其他技术。
+
+戳这里看大数据文摘跟踪报道的Yann LeCun对Gary Marcus的反驳
+
+[1801.00690] DeepMind控件
+
+链接：
+https://arxiv.org/abs/1801.00690
+
+DeepMind控制套件是一套连续的控制任务，具有标准化的结构和可解释的奖励，旨在作为强化学习代理的性能基准。 这些任务用Python编写，由MuJoCo物理引擎驱动，使得它们易于使用和修改。包含了几个学习算法的基准。
+
+[1801.01078v1] 卷积神经网络的最新进展
+
+链接：
+https://arxiv.org/abs/1801.01078?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+面向新手和老司机，对RNNs及新进展进行了调查， 解释了基本原理和最新进展，并介绍了研究方面的挑战。
+
+公开课推荐
+
+稀牛学院+网易云课堂
+隆重推出【人工智能系列公开课】
+
+一线大咖讲师直播互动
+解密人工智能热点话题
+新年最贴心的AI学习指南！
+扫码可领取独家学习资料

@@ -1,0 +1,126 @@
+呜啦啦啦啦啦大家好呀，又到了本周的AI大事件时间了。过去的一周中AI圈都发生了什么？大佬们互撕了哪些问题？研究者们发布了哪些值得一读的论文？又有哪些开源的代码和数据库可以使用了？文摘菌带你盘点过去一周AI大事件！
+
+
+新闻
+
+Facebook关闭私人助理“M”
+
+来源：TECHCRUNCH.COM
+链接：
+https://techcrunch.com/2018/01/08/facebook-is-shutting-down-its-standalone-personal-assistant-m/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+M的用户收到了Facebook将在1月19日停止服务的消息。虽然M一直以来都以AI的标签在台前行走，但是幕后的M实际上仍然需要依靠人类来回答最复杂的查询。例如，您可以在预定餐厅、，订购鲜花或安排下一个假期。
+
+Yann LeCun 疯狂抨击机器人Sophia
+
+来源：WWW.BUSINESSINSIDER.COM 
+链接：
+http://www.businessinsider.com/facebook-ai-yann-lecun-sophia-robot-bullshit-2018-1?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+日前Yann LeCun对之前引起热议的机器人Sophia发出了猛烈的抨击，甚至用上了脏字。该机器人曾经以发表“希望毁灭人类”言论而成文热点。
+
+给AI正名
+
+来源：WWW.NYTIMES.COM 
+
+这篇文章认为，由Elon Musk等人推动的人工智能调控方法是一个错误。我们其实早就在管理AI了，知识没有把它叫做AI而已。
+
+Google Brain Team的2017年回顾
+
+来源：RESEARCH.GOOGLEBLOG.COM 
+链接：
+https://research.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+这个由两部分组成的系列文章回顾了Google Brain团队在2017年所做的工作。这也是对去年研究进展的总体概述。
+
+PyImageConf 2018：实用计算机视觉会议
+
+来源：WWW.PYIMAGESEARCH.COM 
+
+PyImageConf 2018是一个新的会议，将于8月26日至28日在旧金山凯悦酒店举行。
+
+文章&教程
+
+强化学习算法介绍（一）
+
+来源：TOWARDSDATASCIENCE.COM
+
+这篇文章涵盖了强化学习（RL）基础知识和流行的Q-Learning，SARSA，DQN和DDPG算法。
+
+Ray：AI的分布式系统
+
+来源：BAIR.BERKELEY.EDU 
+链接：
+http://bair.berkeley.edu/blog/2018/01/09/ray/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+Ray的目标之一是使使用者能够将笔记本电脑上运行的原型算法转换为在群集上高效运行的高性能分布式应用程序。
+
+用一个模型解决所有的AI问题
+
+来源：BLOG.ACOLYER.ORG
+链接：
+https://blog.acolyer.org/2018/01/12/one-model-to-learn-them-all/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+深度神经网络通常是针对具体的问题而设计并进行调整的。 我们能否创建一个统一的深度学习模型来解决跨多个领域的任务呢？
+
+代码，项目&数据
+
+通过深度学习将设计模型转化为代码
+
+来源：BLOG.FLOYDHUB.COM
+链接：
+https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+这篇文章介绍了如何训练神经网络以达到基于设计模型的图片来编码基本的HTML和CSS网站的目的。可以在GitHub上找到所有代码。
+
+强化学习的MuJoCo与Unity集成包
+
+来源：WWW.MUJOCO.ORG
+链接：
+http://www.mujoco.org/book/unity.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+MuJoCo插件和Unity集成包的目标是一石二鸟：在同一个项目中同时使用MuJoCo物理模拟和Unity渲染。
+
+胶囊网络的Tensorflow实现
+
+来源：GITHUB.COM 
+链接：
+https://github.com/JunYeopLee/capsule-networks?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+Hinton最近的论文——“胶囊之间的动态路径”（Dynamic Routing Between Capsules）的TensorFlow实现。
+
+论文
+
+具有优先级队列训练的程序合成神经网络（Neural Program Synthesis with Priority Queue Training）
+
+来源：ARXIV.ORG 
+链接：
+https://arxiv.org/abs/1801.03526?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+作者认为程序合成的任务是在程序输出中存在奖励函数的情况下进行的，目标是找到奖励函数的值最大的程序。他们使用的PQT算法优于标准值。另外，通过将程序长度添加到奖励函数的惩罚减分条件中，算法可以合成短的、人类可读的程序。
+
+eCommerceGAN：电子商务的GAN-Amazon出品（eCommerceGAN : A Generative Adversarial Network for E-commerce (Amazon)）
+
+来源：ARXIV.ORG
+链接：
+https://arxiv.org/abs/1801.03244?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+这篇文章介绍了用于在电子商务网站上处理订单的生成式对抗网络（GAN）。 经过训练后，GAN中的发单机可以产生任何数量合理的订单。
+
+强化学习的预期梯度策略（Expected Policy Gradients for Reinforcement Learning）
+
+来源：ARXIV.ORG
+链接：
+https://arxiv.org/abs/1801.03326?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+
+作者提出了一种新的框架，在这个框架中，行为者的目的是最大化回报的期望值，同时也使熵最大化 - 也就是在尽可能随机的情况下成功完成任务。
+
+公开课推荐
+
+稀牛学院+网易云课堂
+隆重推出【人工智能系列公开课】
+
+一线大咖讲师直播互动
+解密人工智能热点话题
+新年最贴心的AI学习指南！
+扫码可领取独家学习资料

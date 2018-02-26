@@ -1,0 +1,75 @@
+大数据文摘作品
+
+熟悉扎克伯格的人都知道，每到新年伊始，扎克伯格都会给自己设定一个Personal Challenge，从2009年开始到现在，他会坚持给自己列出一系列挑战自己的难题并完成。
+
+扎克伯格这个著名的年度挑战任务已经持续了很多年，他把每年的这个叫做Challenge，而不是Plan，来督促自己做一些有难度的事情。
+
+反观这些新年flag，从写感谢信、学习汉语，到开发家庭AI系统，似乎我们每个人都曾列出类似的新年愿望，不同的是，小扎列出的每一项挑战都被自己一一完成，有一些甚至在一年刚刚过半就实现了。
+
+除了天分，自律、坚持和挑战也许才是“人生赢家”们成为这样的人的关键。
+
+2009年，全球金融海啸下，Facebook还没有实现持续盈利，扎克伯格的Personal Challenge是每天戴领带上班，以提醒自己“认真对待”。于是，一整年，在每天拖鞋T恤的硅谷，小扎成为了西装革履的“异类”。
+
+
+
+2010年，小扎的Personal Challenge是学习汉语。这一挑战相比打领带更难，但显然小扎完成的非常不错，去年到访清华时，小扎已经可以用中文发表演讲，甚至接受采访了。
+
+
+
+2011年，小扎的Personal Challenge是做一名“素食者”，以减少对动物的伤害。
+
+
+
+2012年，扎克伯格希望自己可以每天都写代码，以期更加了解自己的公司。
+
+
+
+2013年，扎克伯格Personal Challenge是每天跟除脸书员工之外的不同的人见面。
+
+2014年，扎克伯格Personal Challenge是每天写封感谢信。
+
+2015年，扎克伯格Personal Challenge是每个月读两本书，重点学习不同的文化、信仰、历史和科技。
+
+2016年1月初，扎克伯格Personal Challenge是开发一款私人家庭AI系统，这一想法来自《钢铁侠》。
+
+2017年，扎克伯格Personal Challenge是是要拜访美国每一个州，与那里的人会面交流。这个新年挑战一出来，就有网友开玩笑称，小扎是在为竞选总统做准备吗。
+
+2018年第一个工作周，小扎也不出所料给出了新一年Personal Challenge。不同以往，这次小扎的个人愿望并没有那么personal：17年Facebook和其社区面临很多指责，包括滥用技术、混乱的管理，而他希望在新的一年，集中力量解决facebook面临的难题，以及整个社区出现的质疑和憎恶。小扎说，通过解决公司的难题，希望他自己也能有新的成长。
+
+Every year I take on a personal challenge to learn something new. I've visited every US state, run 365 miles, built an AI for my home, read 25 books, and learned Mandarin.
+
+每年我都会列出“个人挑战”，去学习新的东西。过去几年，我已经访问了美国的每一个州，跑了365英里，为我家建了一个AI，读了25本书，学习了普通话。
+
+I started doing these challenges in 2009. That first year the economy was in a deep recession and Facebook was not yet profitable. We needed to get serious about making sure Facebook had a sustainable business model. It was a serious year, and I wore a tie every day as a reminder.
+
+2009年，我开始实施这些挑战。那是全球金融海啸下，美国经济陷入严重衰退的第一年，当时Facebook还没有盈利，我们需要认真对待工作，来确保Facebook拥有可持续的商业模式。这是一个严肃的年头，我每天都会戴上领带，希望其能够提醒自己“严肃对待”。
+
+Today feels a lot like that first year. The world feels anxious and divided, and Facebook has a lot of work to do -- whether it's protecting our community from abuse and hate, defending against interference by nation states, or making sure that time spent on Facebook is time well spent.
+
+今天，我的感觉很像当时那个年头。整个世界焦虑又分裂，Facebook有很多工作要做：无论是保护我们的社区免受虐待和憎恨，捍卫民族国家的干涉，或确保在Facebook上花费的时间是高效值得的。
+
+My personal challenge for 2018 is to focus on fixing these important issues. We won't prevent all mistakes or abuse, but we currently make too many errors enforcing our policies and preventing misuse of our tools. If we're successful this year then we'll end 2018 on a much better trajectory.
+
+我的2018年的挑战是集中精力解决这些重要问题。我们无法阻止所有的错误和滥用，但是我们现在犯了太多错误。如果今年我们取得成功，那么年末我们将更好地为2018年收尾。
+
+This may not seem like a personal challenge on its face, but I think I'll learn more by focusing intensely on these issues than I would by doing something completely separate. These issues touch on questions of history, civics, political philosophy, media, government, and of course technology. I'm looking forward to bringing groups of experts together to discuss and help work through these topics.
+
+这看起来可能不是个人面临的挑战，但我认为，专注于这些问题，会让我学到更多的东西。这些问题涉及历史，公民，政治哲学，媒体，政府，当然还有技术。我期待着将专家组聚在一起讨论和帮助解决这些问题。
+
+For example, one of the most interesting questions in technology right now is about centralization vs decentralization. A lot of us got into technology because we believe it can be a decentralizing force that puts more power in people's hands. (The first four words of Facebook's mission have always been "give people the power".) Back in the 1990s and 2000s, most people believed technology would be a decentralizing force.
+
+例如，现在最有趣的技术问题之一就是集中化与分散化。我们很多人从事科技工作，因为我们相信这可能是一个分权化的力量，能够将更多的权力放在人们的手中。Facebook使命的前四个词一直是给人力量（give people the power）。
+
+But today, many people have lost faith in that promise. With the rise of a small number of big tech companies — and governments using technology to watch their citizens — many people now believe technology only centralizes power rather than decentralizes it.
+
+早在20世纪90年代和2000年左右，大多数人认为技术将是一个分权化的力量。 但今天，很多人对这个承诺失去了信心。随着少数大型科技公司的兴起，以及政府利用技术来监督公民，现在有许多人认为，技术只是在把权力集中起来，而不是分散权力。
+
+There are important counter-trends to this --like encryption and cryptocurrency -- that take power from centralized systems and put it back into people's hands. But they come with the risk of being harder to control. I'm interested to go deeper and study the positive and negative aspects of these technologies, and how best to use them in our services.
+
+现在已经出现了重要的逆向趋势——比如加密货币——它们从中央系统中获取权力，并将其放回到人们的手中。但它们有可能难以控制。我有兴趣深入研究这些技术的积极和消极方面，以及如何最好地将它们用于我们的服务。
+
+This will be a serious year of self-improvement and I'm looking forward to learning from working to fix our issues together.
+这将是一个自我改进的严肃的一年，我期待着从工作中学习，一起解决我们的问题。
+ 
+你的新年Personal challenge是什么？留言给我们吧～
+

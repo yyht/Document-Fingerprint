@@ -1,51 +1,48 @@
-# Authorship #
+# Document Fingerprint#
 This project is built for **2018 IS Contest** in Wuhan, China.
 
 In this project,
-we want to generate a fingerprint for every article in Wechat Public Accounts,
+we aim at generating a fingerprint for every article in Wechat Public Accounts,
 with these fingerprints taking both the articles' topic information and writing style information
 into account. 
 
 The so-called document fingerprints can be used for Anomaly Detection, 
-Similar Recommendation, Plagiarism Detection, etc. 
+Similar Recommendation and Plagiarism Detection, etc. 
 
 
-## Evironment ##
+## Environment ##
 - Python 3.5
-- Libraries: jieba, sklearn, keras (tensorflow backend), glove_python, lda, etc
+- Libraries: jieba, sklearn, keras (tensorflow backend), glove_python, lda, wordcloud, matplotlib, etc
 
 ## Data Explanation ##
 
 We crawl data from **Wechat Public Accounts**. Although we have over 10000 articles for data mining,
-only 150 of them are pushed. We cut the articles into stop words and topic words,
+only 1300 of them are pushed on github. We will cut the articles into stop words and topic words for further usage,
 with python library jieba.
 
-See /src/corpvir and /src/corpreal, 
-here f means real words, g means virtual words.
-Three accounts we push here is listed as follows:
+See \auth_server\fingerprint\data for data. The seven accounts we push here is listed as follows:
 
-- bd -- BigDataAbstract
-- mm -- MiMeng 
-- zjw -- Place for ZhangJiaWei's writing 
-
-For Example in "bigdataAbstract":
-
-- 0.txt ---- the original article of sequence 0 (50 altogether)
-- 0bdf.txt ---- the real-word article of sequence 0
-- 0bdg.txt ---- the virtual-word article of sequence 0
-- punctuation.txt ---- stop words, used in cut.py
+- gkw -- Guo Ke
+- dsjwz -- Big Data Abstract
+- mm -- Mi Meng
+- xkd -- Xia Ke Island
+- jqzx -- Machine's Heart, etc.
 
 ## Alogorithm Explanation ##
 
-In brief, we utilize **LDA(Latent Dirichlet Allocation)** for Writing Style mining, 
+In brief, we utilize **LDA(Latent Dirichlet Allocation)** and **Synonym Forest** for Writing Style mining, 
 **Glove-Tfidf** for Topic mining, and **VAE(Variational Auto-Encoder)** for Information Mixture. 
-**Isolation Forest** is applied in the end for Anomaly Detection. 
+**Isolation Forest** is applied in the end for Anomaly Detection. We implement these algorithms in python.
+Your can find some critical files in \training.
 
-We implement these algorithms in python. Here are some explanations for some critical .py files:
+## Server and Client ##
 
-- cut.py: cut the original artical into stop word bags and topic word bags
-- ldavir.py: LDA for the stop words
-- glovereal.py: train Glove word embeddings
-- tfidfreal.py: add Glove vectors of an article with their weights of TFIDF
-- vae.py: Variational Auto-Encoder for information mixture
-- iforest.py: Isolation forest for Anomaly Detection
+We build a **Wechat mini program** to demonstrate our masterpiece, see \client for more details. 
+As for the server, we apply **tornado** to construct the server, see \auth_server.
+
+## More Information ##
+
+In \doc, there is our ducument for this project, written in Chinese. The document consists of 
+the detailed explantions of our algorithm, implementation and thoughts. Hope it will help you.
+
+This project is done by WL, GJJ, HJC and me, at SJTU.
